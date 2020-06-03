@@ -1,0 +1,46 @@
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe.config
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.exe
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.xml
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.pdb
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Report1.rdlc
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.pdb
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.xml
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.TreeGX.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Web.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Peramalan Penjualan.vbprojResolveAssemblyReference.cache
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormBarang.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLaporan.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLogin.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormMain.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormPenjualan.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormRamal.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.Resources.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Peramalan Penjualan.vbproj.GenerateResource.Cache
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.cache
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.compiled
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormBarang.resources
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLaporan.resources
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLogin.resources
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormMain.resources
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormPenjualan.resources
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormRamal.resources
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.Resources.resources
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Peramalan Penjualan.vbproj.GenerateResource.Cache
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.cache
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.compiled
+C:\Users\FITRIYADI\Downloads\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe.config

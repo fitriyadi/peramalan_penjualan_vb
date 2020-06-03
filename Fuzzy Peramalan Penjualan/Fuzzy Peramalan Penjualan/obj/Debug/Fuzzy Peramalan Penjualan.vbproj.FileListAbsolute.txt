@@ -1,0 +1,199 @@
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe.config
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.exe
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.xml
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.pdb
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Report1.rdlc
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.pdb
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.xml
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.dll
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.dll
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.EF6.dll
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Fabric.Plugin.dll
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Web.dll
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormBarang.resources
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLaporan.resources
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLogin.resources
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormMain.resources
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormPenjualan.resources
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormRamal.resources
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.Resources.resources
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbproj.GenerateResource.Cache
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.cache
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.compiled
+H:\PROGRESS\2016\Mei\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe.config
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.exe
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.xml
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.pdb
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Report1.rdlc
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.pdb
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.xml
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar2.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.TreeGX.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Fabric.Plugin.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Web.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormBarang.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLaporan.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLogin.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormMain.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormPenjualan.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormRamal.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.Resources.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.compiled
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe.config
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.exe
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.xml
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.pdb
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Report1.rdlc
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.pdb
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.xml
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar2.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.TreeGX.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Fabric.Plugin.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Web.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormBarang.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLaporan.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLogin.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormMain.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormPenjualan.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormRamal.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.Resources.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.compiled
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe.config
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.exe
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.xml
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.pdb
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Report1.rdlc
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.pdb
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.xml
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar2.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.TreeGX.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Fabric.Plugin.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Web.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormBarang.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLaporan.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLogin.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormMain.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormPenjualan.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormRamal.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.Resources.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ojok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.compiled
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe.config
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.exe
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.xml
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.pdb
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Report1.rdlc
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.pdb
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.xml
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar2.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.TreeGX.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Fabric.Plugin.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Web.dll
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormBarang.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLaporan.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLogin.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormMain.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormPenjualan.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormRamal.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.Resources.resources
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.cache
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan ok\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.compiled
+C:\xampp\htdocs\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbprojResolveAssemblyReference.cache
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe.config
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.exe
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.xml
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.pdb
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Report1.rdlc
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.exe
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.pdb
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\Fuzzy Peramalan Penjualan.xml
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.Instrumentation.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\DevComponents.TreeGX.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\bin\Debug\MySql.Web.dll
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbprojResolveAssemblyReference.cache
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormBarang.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLaporan.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormLogin.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormMain.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormPenjualan.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.FormRamal.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy_Peramalan_Penjualan.Resources.resources
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\Fuzzy Peramalan Penjualan.vbproj.GenerateResource.Cache
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.cache
+E:\Proposal skrepsweet\New folder\1. Aplikasi\Fuzzy Peramalan Penjualan\Fuzzy Peramalan Penjualan\obj\Debug\RdlCompile.compiled
